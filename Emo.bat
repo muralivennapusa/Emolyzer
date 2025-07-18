@@ -1,3 +1,2 @@
-@REM cd desktop
-@REM cd C:\Users\lance\Desktop\mock hackathon\Final Emolyzer
+@REM cd insert-path-here
 python -m streamlit run Emolyzer.py
